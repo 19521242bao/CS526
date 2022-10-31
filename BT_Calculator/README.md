@@ -1,33 +1,25 @@
-# THÔNG TIN NHÓM N06
+# THÔNG TIN NHÓM 
 
-- Nguyễn Phúc Khang - 20520569
-- Võ Trung Kiên - 20521492
-- Bùi Duy Anh Đức - 20520047
-- Hà Văn Linh - 20521529
+-Lương Phạm Bảo-19521242
+-Phạm Ngọc Dương-19521412
+-Nguyễn Gia Thống-19520993
 
 -----
 
 
-# Installation Instructions Calculator
+# Hướng dẫn cài đặt
 
 ## Tải code về máy
 
-- C1: dùng git clone
+- Dùng git clone
 
   - B1: Tạo một thư mục (vd : CS526)
   - B2: Mở terminal và cd đến thư mục vừa tạo
   - B3: chạy lệnh sau:
-    > git clone https://github.com/npk7264/Calculator.git
-
-- C2: Tải code từ github
-
-  - B1: Tạo một thư mục (vd : CS526)
-  - B2: Truy cập vào link https://github.com/npk7264/Calculator
-  - B3: Click vào code -> download zip
+    > git clone https://github.com/19521242bao/CS526/
+  - B4: cd vào thư mục BT_Calculator
 
     <!-- ![](image_readme\1.png) -->
-
-  - B4: Giải nén file vừa tải vào thư mục vừa tạo
 
 ## Chạy expo với docker
 
