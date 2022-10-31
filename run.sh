@@ -1,0 +1,1 @@
+docker run -u node -it --rm --name calculator -p 19000-19010:19000-19010 -v D:\CS526/Calculator/:/current/ -w /current node:16-slim bash
