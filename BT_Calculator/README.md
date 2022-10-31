@@ -1,7 +1,9 @@
 # THÔNG TIN NHÓM 
 
 -Lương Phạm Bảo-19521242
+
 -Phạm Ngọc Dương-19521412
+
 -Nguyễn Gia Thống-19520993
 
 -----
